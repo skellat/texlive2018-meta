@@ -1,0 +1,3 @@
+TUG has a [great page](https://www.tug.org/texlive/debian.html#vanilla) about making a vanilla install of TeX Live to your Debian-based installation.  *buntu 18.04 is stuck on Tex Live 2017.  I unfortunately like to follow developments in [CTAN](https://ctan.org/) as packages improve and new shiny things get added.  Integrating that with the packaged version in the archive is a pain.  There is also no known PPA or snap.
+
+Contained herein is my slightly modified version of their suggested equivs-build control file for a metapackage to ensure apt *knows* that some sort of LaTeX installation is there.
