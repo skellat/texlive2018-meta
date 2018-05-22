@@ -3,7 +3,7 @@ Priority: optional
 Standards-Version: 4.1.4
 
 Package: texlive-local
-Version: 2018-3
+Version: 2018-4
 Maintainer: Stephen Michael Kellat <smkellat@ubuntu.com>
 Provides: chktex, biblatex, biblatex-dw, cm-super, cm-super-minimal, context, 
  dvidvi, dvipng, feynmf, fragmaster, jadetex, lacheck, latex-beamer, 
@@ -36,7 +36,7 @@ Provides: chktex, biblatex, biblatex-dw, cm-super, cm-super-minimal, context,
  thailatex, tipa, tipa-doc, xindy, xindy-rules, xmltex, asymptote, texinfo,
  texlive-base-bin
 Depends: freeglut3
-Recommends: tk-brief, gummi, glosstex, gladtex, mimetex 
+Recommends: tk-brief, gummi, glosstex, gladtex, mimetex, csv2latex, gnuhtml2latex, latex-coffee-stains, latexml
 Breaks: auctex, geany-plugin-latex, gedit-plugin-latex, latexdraw, latexila, maple-latex,  
 Architecture: all
 Description: My local installation of TeX Live 2018.
